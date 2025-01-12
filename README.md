@@ -14,7 +14,8 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 seguem abaixo.
 
 <a
-href="https://github.com/vivipag/ProjetoEbook-/blob/main/Ebook%20Riqueza%20em%20A%C3%A7%C3%A3o.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+href="https://github.com/vivipag/ProjetoEbook-/blob/main/Ebook%20Riqueza%20em%20A%C3%A7%C3%A3o.pdf"
+title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
